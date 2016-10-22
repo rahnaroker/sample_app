@@ -1,6 +1,6 @@
 # Перевод Ruby on Rails Tutorial: пример приложения
 
-Это пример приложения
+Пример приложения
 [Ruby on Rails Tutorial](http://railstutorial.org/)
 by Michael Hartl.
 
